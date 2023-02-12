@@ -1,9 +1,9 @@
-## TO DO
+# Dowloader Bot Commands
 
-### /start - Say Hello for user and etc.
+[![alt text](icon.svg)](https://botanim.to.digital)
 
-### /download - Ask for link and download the video
-
-### /help - Say what would user do
+- `/start` - Say Hello for user and etc.
+- `/download` - Ask for link and download the video
+- `/help` - Say what would user do
 
 
